@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel xmlns:atom="http://www.w3.org/2005/Atom">
+    <title><![CDATA[/enpit-wit.jimdo.com Blog Feed]]></title>
+    <link>https://enpit-wit.jimdo.com/</link>
+    <description><![CDATA[Blog - ]]></description>
+    <pubDate>Tue, 17 Jan 2017 16:04:59 +0900</pubDate>
+    <generator>Jimdo_Feed</generator>
+    <language>ja-jp</language>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="https://enpit-wit.jimdo.com/rss/blog" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[No feed items at the moment]]></title>
+      <link>https://enpit-wit.jimdo.com/</link>
+      <guid>https://enpit-wit.jimdo.com/</guid>
+      <description><![CDATA[.]]></description>
+      <pubDate>Tue, 17 Jan 2017 16:04:59 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
